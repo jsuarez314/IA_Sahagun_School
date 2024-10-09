@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/John/Work/Outreach/2024_HighSchool_Sahagún/Workshop/datos/train/images
+val: /content/drive/MyDrive/John/Work/Outreach/2024_HighSchool_Sahagún/Workshop/datos/valid/images
+test: /content/drive/MyDrive/John/Work/Outreach/2024_HighSchool_Sahagún/Workshop/datos/test/images
+
+nc: 2
+names: ['cat', 'dog']
